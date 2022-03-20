@@ -1,0 +1,39 @@
+.card__link {
+    text-decoration: none;
+}
+
+.form-login {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.App {
+    height: 100vh;
+}
+
+.btn-wrp {
+    display: flex;
+    flex-direction: column;
+    grid-row-gap: 10px
+}
+
+.card-body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contactsList {
+    margin-top: 30px;
+    display: flex;
+    grid-row-gap: 10px;
+    flex-direction: column;
+}
+
+.card-title, .card-header {
+    grid-column-gap: 10px;
+    display: flex;
+    align-items: center;
+}
