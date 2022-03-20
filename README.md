@@ -10,4 +10,4 @@ Runs the app in the development mode.
 
 ### Build version 
 
-Was in https://truekode.github.io/takeoff_test_task/build
+Was in build
